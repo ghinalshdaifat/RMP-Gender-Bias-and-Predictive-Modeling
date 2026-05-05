@@ -171,4 +171,4 @@ seaborn
 
 ## Full Report
 
-For complete methodology, statistical derivations, and figures, see [`Final_IDS_Capstone_Report.pdf`](./Final_IDS_Capstone_Report.pdf).
+For complete methodology, statistical derivations, and figures, see [`Final_IDS_Capstone_Report.pdf`](./WrittenReport.pdf).
