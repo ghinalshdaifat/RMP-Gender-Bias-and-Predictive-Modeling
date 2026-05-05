@@ -3,6 +3,7 @@
 A comprehensive statistical and machine learning analysis of [Rate My Professor (RMP)](https://www.ratemyprofessors.com/) data, investigating gender bias in student evaluations, the predictive power of tags and numerical features on professor ratings, and the detectability of "pepper" (attractiveness) ratings through classification.
 
 **Authors:** Ghina Al Shdaifat, Hamza Alshamy, Elaf Almahmoud 
+
 **Course:** Introduction to Data Science — Fall 2024
 
 ---
