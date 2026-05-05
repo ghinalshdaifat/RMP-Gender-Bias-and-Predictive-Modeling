@@ -24,9 +24,9 @@ This project merges three RMP datasets — ratings, tags, and qualitative inform
 ## Repository Structure
 
 ```
-├── Final_IDS_Capstone_Code.ipynb    # Full analysis notebook (EDA through clustering)
-├── Final_IDS_Capstone_Code.py       # Python script version of the notebook
-└── Final_IDS_Capstone_Report.pdf    # Full written report with methodology and results
+├── ProjectCode.ipynb     # Full analysis notebook (EDA through clustering)
+├── ProjectCode2.py       # Python script version of the notebook
+└── WrittenReport.pdf     # Full written report with methodology and results
 ```
 
 ---
